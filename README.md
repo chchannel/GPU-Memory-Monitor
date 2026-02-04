@@ -1,9 +1,8 @@
+# GPU-Memory-Monitor
 
-# GPU-Memory![2026-02-04-001](https://github.com/user-attachments/assets/aa9a98a0-ea59-42ae-ac16-1819572d2c0e)
--Monitor
+<img src="https://github.com/user-attachments/assets/aa9a98a0-ea59-42ae-ac16-1819572d2c0e" width="400">
 
-
-
+<br>
 A lightweight, modern GPU memory monitoring tool for Windows.  
 Windows向けの軽量でモダンなGPUメモリ監視ツールです。
 
