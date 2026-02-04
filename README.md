@@ -3,8 +3,6 @@
 A lightweight, modern GPU memory monitoring tool for Windows.  
 Windows向けの軽量でモダンなGPUメモリ監視ツールです。
 
-![Main UI](docs/gpu_monitor/screenshot_main.png) 
-
 ## Features (主な機能)
 
 - **Accurate Monitoring**: Tracks GPU memory usage per process using Windows Performance Counters.
