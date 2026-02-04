@@ -1,9 +1,9 @@
-# GPU Monitor (GPUメモリ監視ツール)
+# GPU-Memory-Monitor
 
-A lightweight, modern GPU memory monitoring tool for Windows.
+A lightweight, modern GPU memory monitoring tool for Windows.  
 Windows向けの軽量でモダンなGPUメモリ監視ツールです。
 
-![Main UI](docs/gpu_monitor/screenshot.png) <!-- Note: User might need to take a screenshot or I can use the generate_image one if it's representative -->
+![Main UI](docs/gpu_monitor/screenshot_main.png) 
 
 ## Features (主な機能)
 
